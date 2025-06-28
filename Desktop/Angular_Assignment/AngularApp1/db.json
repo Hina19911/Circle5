@@ -1,0 +1,10 @@
+{ 
+  "reservations": [], 
+  "areas": [ 
+    { "id": 1, "name": "Forest Hills" }, 
+    { "id": 2, "name": "Lakeside Park" }, 
+    { "id": 3, "name": "Mountain Trail" }, 
+    { "id": 4, "name": "River Bend" } 
+  ] 
+} 
+ 
